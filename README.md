@@ -19,6 +19,18 @@ sudo it 2
 ```
 or whatever. It does not change boot order.
 
+If you want to use it without sudo, use the command below.
+
+```bash
+sudo bootit allow-non-root
+```
+
+From then on, you can use it without sudo.
+
+```
+it windows
+```
+
 ## Installation
 ### Cargo
 ```bash
