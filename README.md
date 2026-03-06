@@ -28,7 +28,7 @@ sudo bootit allow-non-root
 From then on, you can use it without sudo.
 
 ```
-it windows
+it windows # No sudo required!
 ```
 
 ## Installation
